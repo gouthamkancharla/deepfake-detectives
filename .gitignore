@@ -1,0 +1,11 @@
+# macOS Finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Resource fork files
+._*
+
+# macOS trash and indexing
+.Trashes
+.Spotlight-V100
