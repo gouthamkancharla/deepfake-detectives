@@ -46,3 +46,12 @@ We utilize the **FaceForensics++ dataset**, focusing specifically on the *Deepfa
 ## Contact & Contributions
 
 For questions, suggestions, or contributions, feel free to open an issue or pull request. Feedback is always welcome!
+
+
+## Credits/Acknowledgements
+
+The videoDatset class, model architecture and parts of the training code are adapted from [Abhijith Jadhav's Deepfake Detection Using Deep Learning Github repository](https://github.com/abhijithjadhav/Deepfake_detection_using_deep_learning).
+
+## License Notice
+
+This project uses code derived from a GPL-3.0 licensed repository. Please refer to the original repository for licensing details.
